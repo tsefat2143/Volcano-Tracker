@@ -9,4 +9,4 @@
   
 ### API used for plotting volcanoes: https://eonet.sci.gsfc.nasa.gov/api/v2.1/events  
   
-<img src='/src/components/volcano.png' width=450px height=500px title='Volcano' alt='Volcano' />
+<img src='/src/components/volcano.png' width=500px height=400px title='Volcano' alt='Volcano' />
