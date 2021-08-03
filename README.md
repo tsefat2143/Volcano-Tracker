@@ -7,4 +7,6 @@
 # Build  
 ### npm build or yarn build  
   
-### API used for plotting volcanoes: https://eonet.sci.gsfc.nasa.gov/api/v2.1/events
+### API used for plotting volcanoes: https://eonet.sci.gsfc.nasa.gov/api/v2.1/events  
+  
+<img src='/src/components/volcano.png' width=450px height=500px title='Volcano' alt='Volcano' />
